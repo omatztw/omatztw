@@ -8,6 +8,8 @@ Tales Weaverのモンスターカードレシピを自動生成するサイト
 
 https://github.com/omatztw/tw-card-chef
 
+---
+
 ### [TW Toolbox](https://omatztw.github.io/mq-checker)
 
 Tales Weaver関連の様々なツールが公開されています。
@@ -27,6 +29,8 @@ Tales Weaver関連の様々なツールが公開されています。
 
 https://github.com/omatztw/mq-checker
 
+---
+
 ### 棒読みちゃん TWプラグイン
 
 TWのチャットログを棒読みちゃんに読み上げてもらうプラグイン
@@ -34,6 +38,8 @@ TWのチャットログを棒読みちゃんに読み上げてもらうプラグ
 #### Repository
 
 https://github.com/omatztw/BouyomiChan_TW_Plugin
+
+---
 
 ### ベリネンルミレイド通知
 
@@ -44,6 +50,8 @@ https://discord.gg/3ZNhhF9
 #### Repository
 
 https://github.com/omatztw/tw-raidtimer
+
+---
 
 ### おまちゅ嬢
 
