@@ -55,7 +55,7 @@ https://github.com/omatztw/tw-raidtimer
 
 ### おまちゅ嬢
 
-Discordのチャットを読み上げるDiscord Bot
+Discordのチャットを読み上げるDiscord Bot  
 BotをVCに呼ぶと読み上げてくれます。
 
 #### Repository
