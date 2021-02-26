@@ -10,7 +10,7 @@ https://github.com/omatztw/tw-card-chef
 
 ---
 
-### [TW Toolbox](https://omatztw.github.io/mq-checker)
+### [TW ToolBox](https://omatztw.github.io/mq-checker)
 
 Tales Weaver関連の様々なツールが公開されています。
 
